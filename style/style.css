@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Grande';
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    background-color: #818b83;
+    height: 50px;
+}
+
+.nav-container {
+    border: 1px solid red;
+    height: 50px;
+    box-sizing: border-box;
+
+    width: 33%;
+    float: left;
+
+    text-align: center;
+}
+
+.nav-container a{
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
+
+    padding: 5px;
+}
